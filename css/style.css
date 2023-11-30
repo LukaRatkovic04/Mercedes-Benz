@@ -117,6 +117,7 @@ nav li a:hover::after{
     margin-top: 50px;
     line-height: 70px;
     user-select: none;
+    animation-delay: 1s;
 }
 
 #secondanimation{
@@ -133,6 +134,7 @@ nav li a:hover::after{
     animation-duration: 2s;
     margin-top: -50px;
     user-select: none;
+    animation-delay: 1s;
 }
 
 @keyframes animation{
