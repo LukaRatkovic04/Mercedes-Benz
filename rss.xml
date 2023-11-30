@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Mercedes-Benz News</title>
+        <link>https://lukaratkovic04.github.io/Mercedes-Benz/index.html</link>
+        <description>News from our website</description>
+        <item>
+            <title>NEW Mercedes-AMG GLC43</title>
+            <link>https://lukaratkovic04.github.io/Mercedes-Benz/index.html</link>
+            <description>The 2024 Mercedes-AMG GLC43 Coupe and GLC63 S E Performance Coupe have been unveiled</description>
+        </item>
+        <item>
+            <title>NEW Mercedes-Benz CLA</title>
+            <link>https://lukaratkovic04.github.io/Mercedes-Benz/index.html</link>
+            <description>The 2024 Mercedes-Benz CLA is set to hit the market</description>
+        </item>
+    </channel>
+</rss>

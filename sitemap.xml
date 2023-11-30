@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<urlset>
+    <url>
+        <loc>https://lukaratkovic04.github.io/Mercedes-Benz/index.html</loc>
+        <lastmod>2023-11-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://lukaratkovic04.github.io/Mercedes-Benz/gallery.html</loc>
+        <lastmod>2023-11-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.70</priority>
+    </url>
+    <url>
+        <loc>https://lukaratkovic04.github.io/Mercedes-Benz/aboutUs.html</loc>
+        <lastmod>2023-11-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.70</priority>
+    </url>
+    <url>
+        <loc>https://lukaratkovic04.github.io/Mercedes-Benz/contact.html</loc>
+        <lastmod>2023-11-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.60</priority>
+    </url>
+    <url>
+        <loc>https://lukaratkovic04.github.io/Mercedes-Benz/author.html</loc>
+        <lastmod>2023-11-30</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.50</priority>
+    </url>
+</urlset>
